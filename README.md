@@ -1,5 +1,3 @@
 # AlexandreSoldano.github.io
 
-Alexandre Soldano
-Sofia Sali
-Charly Tran
+Alexandre Soldano / Sofia Sali / Charly Tran
